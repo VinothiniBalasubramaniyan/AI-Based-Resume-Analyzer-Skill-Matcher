@@ -1,0 +1,5 @@
+gradio
+PyPDF2
+spacy
+nltk
+sentence-transformers
